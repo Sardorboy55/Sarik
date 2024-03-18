@@ -1,0 +1,26 @@
+body{
+     background-color: black;
+}
+.text1{
+    background-color: rgb(220, 255, 220);
+    text-align: center;
+    
+}
+
+.text2{
+    background-color: rgb(185, 255, 185);
+    text-align: center;
+    
+}
+
+.text3{
+    background-color: rgb(135, 242, 135);
+    text-align: center;
+   
+}
+
+.text4{
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+
+}
